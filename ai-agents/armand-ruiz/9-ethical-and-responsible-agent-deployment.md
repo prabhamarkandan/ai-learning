@@ -4,8 +4,10 @@ Hello again,
 
 Welcome to Day 9 of our AI Agents journey! So far, we’ve explored what AI Agents are, the architectures that empower them, how to integrate LLMs, and the skill sets that shape their development. Today, we’ll address a crucial dimension of deploying AI Agents: ensuring that their creation, implementation, and maintenance uphold ethical, responsible standards.
 
-> "The potential market of AI agents is not in the billions of dollars, but the trillions."  
-> **Marc Benioff, CEO and Founder of Salesforce**
+
+> 🟨 **The potential market of AI agents is not in the billions of dollars, but the trillions**
+> 
+> *Marc Benioff, CEO and Founder of Salesforce*
 
 As these systems become integral to everything from customer service to critical medical decisions, it’s no longer enough just to build powerful agents. We must consider how they impact people’s lives, maintain privacy, and treat all users fairly.
 
@@ -33,17 +35,18 @@ Ethical considerations help guide innovation toward solutions that genuinely imp
 The rise of AI Agents isn’t just a technological evolution—it’s an economic revolution. The global AI Agent market is projected to grow exponentially, with estimates suggesting a multi-trillion-dollar opportunity by 2030. This includes applications in customer service, healthcare, logistics, education, and beyond. Businesses are already seeing transformative value, from automating repetitive tasks to enabling entirely new business models.
 
 
-> ⚠️ **AI Agents Market worth $47.1 billion by 2030**
+![AI Agents Market worth $47.1 billion by 2030](../images/image17.png)
 >
-> ![AI Agents Market worth $47.1 billion by 2030](../images/image17.png)
+> 🟨 **AI Agents Market worth $47.1 billion by 2030**
 >
 > **by MarketsandMarkets™**
-> 
+
+
 ### Will AI Take Over All Jobs?
 
 While there’s concern about automation replacing human roles, history shows that technological revolutions tend to create as many opportunities as they displace. AI Agents will likely take over repetitive, predictable tasks—but this opens doors for humans to focus on creativity, strategy, and problem-solving. The key lies in adaptation: learning to work alongside AI rather than fearing it.
 
-> ![Representation of evolution of work from a16z blog](../images/image19.png)
+![Representation of evolution of work from a16z blog](../images/image20.png)
 
 ---
 
