@@ -43,7 +43,7 @@ The agent then executes its chosen actions. After receiving new data or user fee
 
 > Overview of LLM-based AI agent (Image from researchgate.net)
 >
-> ![LLM-based AI Agent Overview](../images/image12.png)
+> ![LLM-based AI Agent Overview](../images/image12.jpg)
 
 ---
 
