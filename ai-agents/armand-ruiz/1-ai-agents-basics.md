@@ -33,7 +33,7 @@ At its core, an AI agent is an intelligent system designed to perceive its envir
 - Make autonomous decisions
 - Solve complex problems with minimal human intervention
 
-![image1](image1)
+![image1](../images/image1.png)
 
 ---
 
@@ -45,7 +45,7 @@ The concept of AI agents isn't new, but recent technological advances have trans
 - **Machine Learning Era:** Agents that could learn patterns and improve performance over time
 - **Current State:** Advanced, context-aware systems capable of complex reasoning and cross-domain problem-solving
 
-![image2](image2)
+![image2](../images/image2.png)
 
 ---
 
