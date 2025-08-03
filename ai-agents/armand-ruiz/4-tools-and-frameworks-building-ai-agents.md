@@ -20,7 +20,7 @@ A good example (not sponsored) is [11x.ai](https://www.11x.ai/), which provides 
 
 > Alice and Mike, off-the-shelf agents available from 11x.ai
 
-![image4](image4)
+![image4](../images/image4.gif)
 
 ---
 
@@ -32,7 +32,7 @@ My favorite tool is **Langflow**, a visual framework for building multi-agent an
 
 > Langflow visual interface to build AI Agents without coding
 
-![image5](image5)
+![image5](../images/image6.png)
 
 ---
 
@@ -51,7 +51,7 @@ For teams that need full control and customization, developer frameworks offer g
 
   > CrewAI workflow (image from CrewAI.com)
 
-![image6](image6)
+![image6](../images/image7.png)
 
 - **LangGraph**  
   LangGraph provides a flexible framework for managing diverse control flows, including single-agent, multi-agent, hierarchical, and sequential setups, while reliably handling complex scenarios. It ensures agent reliability with built-in moderation and quality loops.
@@ -62,7 +62,7 @@ For teams that need full control and customization, developer frameworks offer g
 
   > LangGraph Multi-Agent Workflows (image from LangChain Blog)
 
-![image7](image7)
+![image7](../images/image8.jpg)
 
 - **LlamaIndex**  
   LlamaIndex is a framework for building context-augmented generative AI applications with LLMs, including agents and workflows. As part of it, you can build Agents for use cases such as Agentic RAG, Report Generation, Customer Support, or SQL Agents, among many others. They all come with samples in Python & TypeScript to help you get started.
