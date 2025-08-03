@@ -90,7 +90,7 @@ When these elements work in harmony, you get an AI Agent that is more than a sum
 
 The diagram below illustrates how these components interact within an AI agent:
 
-![image3](image3)
+![image3](../images/image3.png)
 
 - The **Agent** core connects to **Memory**, **Tools**, **Planning**, and **Action** modules.
 - **Memory** includes both short-term and long-term storage.
