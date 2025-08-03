@@ -10,21 +10,25 @@ Welcome to the final installment of our AI Agents 10-day journey! Over the past 
 
 1. **Autonomous Multi-Agent Systems**  
    Agents will collaborate as interconnected networks, solving complex problems together, like optimizing supply chains or managing decentralized systems.
- ![image11](images/image11.png)
-2. **Robots and Humanoids Powered by AI Agents**  
+ ![image11](../images/image11.png)
+
+3. **Robots and Humanoids Powered by AI Agents**  
    AI Agents will increasingly power robots and humanoids, enabling physical-world interactions in industries like healthcare, retail, and logistics.
- ![image10](images/image10.png)
-3. **More Built-in Architecture and Complexity Within AI Models**  
+   
+ ![image10](../images/image10.png)
+ 
+4. **More Built-in Architecture and Complexity Within AI Models**  
    Advanced AI models will integrate reasoning, memory, and planning directly, reducing the need for complex external frameworks.
 
-4. **Deeper Integrations with Real-World Systems**  
+5. **Deeper Integrations with Real-World Systems**  
    Agents will seamlessly integrate with IoT, SaaS, and smart city ecosystems, enabling real-time data-driven actions.
 
-5. **Specialization and Domain Expertise**  
+6. **Specialization and Domain Expertise**  
    Agents will become highly specialized, excelling in niche roles like healthcare compliance or financial analysis.
 
 > *Vertical AI startups map from Ardent Ventures*
- ![image9](images/image9.png)
+ ![image9](../images/image9.jpg)
+
 6. **Evolving Regulatory and Ethical Landscapes**  
    As adoption grows, stricter regulations will demand transparency, fairness, and accountability in AI Agent deployments.
 
