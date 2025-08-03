@@ -24,7 +24,7 @@ Memory allows agents to adapt their behavior based on accumulated knowledge. By 
 
 > The three steps of memory functioning (image from springchain ai blog)
 >
-> ![Three steps of memory functioning](../images/image14.png)
+> ![Three steps of memory functioning](../images/image13.jpg)
 
 ---
 
@@ -49,7 +49,7 @@ RAG techniques involve querying a knowledge store for relevant context before th
 
 > Agent Memory workflow (image from Markovate)
 >
-> ![Agent Memory workflow](../images/image15.png)
+> ![Agent Memory workflow](../images/image14.jpg)
 
 ---
 
