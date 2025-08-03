@@ -26,7 +26,7 @@ Regulations around data protection, fairness, and accountability are on the rise
 **Sustainable Innovation:**  
 Ethical considerations help guide innovation toward solutions that genuinely improve lives. By prioritizing equity, privacy, and transparency, you create AI agents that enrich human experiences rather than commodifying or exploiting them.
 
-> [AI Regulation tracker from Fairly AI](../images/image18.jpg)
+![AI Regulation tracker from Fairly AI](../images/image18.jpg)
 
 ---
 
